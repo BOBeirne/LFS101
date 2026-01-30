@@ -1,0 +1,2 @@
+- POST - Power On Self Test
+- Part of a [[BOOT]]

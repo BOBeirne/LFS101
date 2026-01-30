@@ -1,0 +1,2 @@
+- software, which helps the Kernel operate (talk to) a piece of hardware
+- each hardware has it's own specific drivers

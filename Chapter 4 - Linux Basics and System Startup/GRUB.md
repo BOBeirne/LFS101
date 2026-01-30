@@ -1,0 +1,2 @@
+- GRUB - GRand Unified Boot loader
+- a 2nd stage boot loader

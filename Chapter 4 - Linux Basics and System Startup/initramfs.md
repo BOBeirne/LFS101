@@ -1,0 +1,4 @@
+- Initial RAM Disk filesystem image
+- contains programs and binary files that perform all actions required to mount the root [[File System ]] and provide [[Kernel]] functionality
+- It also loads [[drivers]] for mass storage controllers (like HHD or usb drivers/) by using [[udev]] system
+- After the root file system location is established, it is checked for errors and [[mount]]ed 

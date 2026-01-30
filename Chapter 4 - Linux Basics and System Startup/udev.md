@@ -1,0 +1,2 @@
+- UDEV - user device system
+- Responsible for figuring out which devices are present, locating their drivers and loading them during the [[initramfs]] [[BOOT]] stage

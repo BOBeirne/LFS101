@@ -1,0 +1,4 @@
+- MBR - Master [[BOOT]] Record
+- boot sector stored on disk drive
+- 512 MB in size
+- [[UEFI]] has a replacement called [[EFI]] partition

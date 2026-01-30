@@ -1,0 +1,4 @@
+- Command shell or Shell
+- Usually the default one is [[bash]] but there are other ones available
+- it prints a text prompt indicating, it's ready to accept commands
+- another prompt is displayed after the command is done
