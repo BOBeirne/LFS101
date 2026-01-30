@@ -1,3 +1,6 @@
+- Red Hat systems usually comes with [[SELinux]] security setup by default
+- Uses `Kickstart` config file for unattended installation
+
 # Red Hat Family
 
 - Includes distributions such as `RHEL`, `CentOS`, `CentOS Stream`, `Fedora` and `Oracle Linux`
@@ -32,8 +35,7 @@
 ###  `CentOS Stream` -  New Version of CentOS
 
 - direct upstream of RHEL, rolling preview of next RHEL release
-- [Open-Source](gitlab.com/centos-stream))
-
+- [Open-Source](gitlab.com/centos-stream)
 - Serves as testing environment for RHEL
 - Shares RHEL's codebase and text gates
 

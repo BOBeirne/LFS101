@@ -1,5 +1,7 @@
 # The Debian Family
 
+- Uses `Preseed` config file for unattended installation
+
 ### Debian
 
 - **Pure Open-Source** community project
@@ -18,6 +20,7 @@
 - widely used for cloud deployments (dominant on AWS, Azure, GCP)
 - `Ubuntu LTS` (Long Term Support) Will be used throughout this course 
 	- supported for 5 years, new LTS every 2 years
+- Ubuntu systems usually comes with [[AppArmor]] security setup by default 
 
 ### Linux Mint
 

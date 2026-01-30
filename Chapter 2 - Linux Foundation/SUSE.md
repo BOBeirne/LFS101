@@ -1,4 +1,6 @@
-# The SUSE Family
+- Uses `AutoYAST` config file for unattended installation
+
+## The SUSE Family
 
  `S.u.S.E.` - Software und System-Entwicklung. 
  German for **"Software and System Development"** Founded in Germany in 1994.

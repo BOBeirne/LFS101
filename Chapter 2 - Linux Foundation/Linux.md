@@ -6,7 +6,7 @@
 
 Full list of all major distributions: [DistroWatch](https://distrowatch.com/dwres.php?resource=major)
 
-[[Linux Distribution]]
+[[Linux Distributions]]
 
 ## [[Kernel]]
 
