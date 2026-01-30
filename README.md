@@ -1,6 +1,6 @@
 # LFS101 - Introduction to Linux
 
-  Personal study notes for [LFS101x](https://training.linuxfoundation.org/training/introduction-to-linux/) by The Linux Foundation.
+  Personal study notes for [LFS101](https://training.linuxfoundation.org/training/introduction-to-linux/) by The Linux Foundation.
 
   ## Notes
 
