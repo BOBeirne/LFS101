@@ -37,3 +37,72 @@ Types of software added to kernel to make distro:
   - Compilers/dev tools
   - Desktop environment (if GUI)
   - Pre-installed applications
+
+## OS Support
+
+### Enterprise
+
+Enterprise distros provide commercial (paid) support in a way of:
+
+  - Long-term security updates
+  - Hardware/software certification
+  - Bug fixes and performance patches
+  - Technical support
+
+#### Favourite Distributions
+
+- Red Hat - RHEL
+- SUSE
+- Ubuntu (cannonical)
+
+### Community-backed alternatives
+
+#### Enterprise
+
+- CentOS (EOL)
+- CentOS Stream (RHEL preview)
+- Alma Linux - Active replacement (RHEL-derived substitutes)
+- Rocky Linux - Active replacement
+
+#### DevOps / Education
+
+- Ubuntu
+- Fedora
+
+
+## Choosing a Linux Distribution
+
+Examples of popular choices depending on the system purpose
+
+### Server
+
+- RHEL
+- CentOS
+- Ubuntu Server
+- SLES
+- OpenSUSE
+- Debian
+
+### Desktop
+
+- Ubuntu
+- Fedora
+- Debian
+- ArchLinux
+
+### [[Embedded]]
+
+- Yocto
+- Android
+- Open Embedded
+- OpenWrt (routers)
+
+
+### Questions to ask before choosing
+
+- What is main function of the system (server/desktop/embedded)
+- what types of packages does it need (web server/word processing etc)
+- Required storage space
+- How often needing updates
+- Support cycle - LTS or not
+- Hardware used - X86 / RISC-V / ARM / PPC

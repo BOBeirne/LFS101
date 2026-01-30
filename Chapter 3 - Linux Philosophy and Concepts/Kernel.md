@@ -12,3 +12,12 @@
 | RHEL 9 | 5.14   | Newer but still conservative |
 | Fedora | Latest | Testing ground for RHEL      |
 - Kernel alone is not usable, you need to pair it with tools, package mgmnt etc to make it usable!
+
+### BOOT
+
+- During [[BOOT]] process, the [[BOOT Loader]], loads both Kernel and [[initramfs]] into memory, so it can be used by the Kernel
+1) When Kernel is loaded into [[RAM]], it initializes and configures the RAM and hardware attached to the system. It also loads some necessary user space applications
+2) Kernel then runs sbin/[[init]], which then becomes the primary process
+
+- [[init]] then starts processes to get system running
+

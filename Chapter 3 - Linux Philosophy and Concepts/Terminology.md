@@ -6,7 +6,7 @@
 	- `Hardware` <-> `kernel` <-> `Applications`
 - All kernels can be found at [kernel.org](https://kernel.org)
 
-## [[Linux Distribution]]
+## [[Linux Distributions]]
 
 - collection of software making up a Linux-based OS
 - Ubuntu, CentOS, SLES, OpenSUSE etc

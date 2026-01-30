@@ -1,0 +1,5 @@
+- There are 3 distinctive Linux Families
+	- [[Debian]]
+	- [[Red Hat]]
+	- [[SUSE]]
+- Each family has it's own [[Linux Distributions]]
