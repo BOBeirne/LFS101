@@ -19,3 +19,9 @@
 	- **[Debian](http://www.debian.org/)**
 	- **[Ubuntu](http://www.ubuntu.com/)** 
 	- [Linux Mint](http://www.linuxmint.com/) 
+
+## System installation
+
+### [[Ubuntu]]
+
+### [[CentOS Stream]]
