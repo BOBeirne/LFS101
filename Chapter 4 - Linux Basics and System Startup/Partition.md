@@ -1,3 +1,6 @@
+
+
+
 - Partition is a dedicated subsection of physical storage (fixed area to be treated as a whole)
 - [[File System]] resides within a partition
 - In some cases, if using [[symbolic links]] a [[File System]] can span more than one partition
@@ -19,3 +22,7 @@ Default Linux HDD partition (sda) layout
 - home (sda2)
 - var (sda3)
 - swap (sda4)
+
+### Terminal Commands
+
+- Use command `df -h` to see how much space is being used by each partition
