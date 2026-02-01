@@ -1,0 +1,2 @@
+- Populare [[GUI]] alternative to [[GNOME]]
+- Usually default GUI for [[SUSE]] and [[openSUSE]]

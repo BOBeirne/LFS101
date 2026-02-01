@@ -1,0 +1,6 @@
+- GUI for Linux
+- Sometimes just called `X` or `X11`
+- Created in 80s
+- Legacy but still works
+- Has weak security (any app can see other windows)
+- It's used as default in older distros, otherwise used as a fallback
