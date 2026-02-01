@@ -1,6 +1,6 @@
 - Much faster than [[init]] ,  `/sbin/init` now just points to `/lib/systemd/systemd` (systemd takes over)
 - Takes advantage of aggressive parallelization techniques, which allows multiple services to be initiated at the same time 
-- Replaced complicates shell scripts with config files
+- Replaced complicated shell scripts with config files
 	- enumerate what needs to be done before service starts
 	- how to set it up
 	- what conditions service should indicate have been completed when start-up finishes.
@@ -17,10 +17,10 @@
 # starting, stopping and restarting the service
 $ sudo systemctl start|stop|restart httpd.service # 
 
-# emable/disale system service from starting up at the system boot
+# emable/disable system service from starting up at the system boot
 $ sudo systemctl enable|disable httpd.service
 
-# Checking te service status
-$ sudo systemcl status httpd.service 
+# Checking the service status
+$ sudo systemctl status httpd.service 
 
 ```

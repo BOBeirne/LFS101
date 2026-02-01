@@ -10,10 +10,10 @@
 4) [[CMOS]]
 5) [[MBR]] / [[EFI]]
 6) [[BOOT Loader]] (e.g. GRUB) 
-7) [[Kernel]] + Initial RAM disk - [[initramfs]]
+7) [[Kernel]] + Initial [[RAM]] disk - [[initramfs]]
 8) /sbin/[[init]] (parent process)
-9) command shell using getty
-10) GUI (X window/ wayland)
+9) command [[shell]] using getty
+10) [[GUI]] ([[X Window System]]/ [[wayland]])
 
 
 ### BOOT alternatives 

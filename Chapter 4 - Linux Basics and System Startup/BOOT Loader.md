@@ -3,11 +3,11 @@
 - Loader location depends if you're using BIOS or UEFI
 - If using [[BIOS]] - loader is located in [[MBR]] - the 1st sector of the disk
 - if using [[UEFI]] - loader is located in [[EFI]] partition
-- IT is responsible for loadingthe [[Kernel]] Image and Initial RAM disk or [[File System]] into memory
+- It is responsible for loading the [[Kernel]] Image and Initial RAM disk or [[File System]] into memory
 
 1) Shows menu (pick OS or kernel version)
 2) Loads kernel into memory
-3) Loads initramfs (mini filesystem with drivers needed to boot
+3) Loads [[initramfs]] (mini filesystem with [[drivers]] needed to boot)
 
 ## Stages
 

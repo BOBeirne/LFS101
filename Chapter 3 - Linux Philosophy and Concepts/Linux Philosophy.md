@@ -9,7 +9,7 @@
 
 - `Files` - stored in hierarchical filesystem
 	- TOP NODE - `root` or `/`
-- Linux makes it's `components` available via **files or objects that look like files**
+- Linux makes its `components` available via **files or objects that look like files**
 	- **processes, devices and net sockets are represented** by file-like objects and can be used via same utils used for regular files
 - `Multitasking` - Linux can perform multiple threads of execution simultaneously
 - Supports `multiple users` with built-in `networking` and `service processes `(aka daemons)

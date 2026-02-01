@@ -10,7 +10,7 @@
 - uses the RPM-based `zypper` package manager to install, update, and remove packages in the system.
 - It includes the `YaST` (Yet Another Setup Tool) application for **system administration** purposes.
 
-### openSUSE
+### [[openSUSE]]
 
 - Used as reference distro for SUSE family
 - Free to use

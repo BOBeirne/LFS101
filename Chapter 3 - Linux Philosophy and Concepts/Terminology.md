@@ -43,7 +43,7 @@
 - GUI - Graphical User Interface on top of OS
 	- Desktop
 		- [[KDE]]
-		- [[Gnome]]
+		- [[GNOME]]
 		- [[XFCE]]
 		- Fluxbox
 	- Window Manager

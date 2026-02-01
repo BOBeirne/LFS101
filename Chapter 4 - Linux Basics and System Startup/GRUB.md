@@ -1,2 +1,5 @@
 - GRUB - GRand Unified Boot loader
 - a 2nd stage boot loader
+- - Config file location (`/boot/grub/grub.cfg`)
+    - `grub-mkconfig` command
+    - To edit boot options temporarily press `e` at boot menu

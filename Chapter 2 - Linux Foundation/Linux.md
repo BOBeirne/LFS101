@@ -1,17 +1,12 @@
  
  - A family of open source [[UNIX]]-like operating systems based on the Linux kernel, 
- - 1st kernel was released on 17/9/1991, by Linus Torvalds.
+ - 1st [[kernel]] was released on 17/9/1991, by Linus Torvalds.
 
 ## Distribution Families
 
 Full list of all major distributions: [DistroWatch](https://distrowatch.com/dwres.php?resource=major)
 
 [[Linux Distributions]]
-
-## [[Kernel]]
-
-- talks to the hardware
-
 
 ## Updates
 

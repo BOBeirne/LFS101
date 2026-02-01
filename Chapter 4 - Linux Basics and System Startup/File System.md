@@ -28,7 +28,7 @@ Cross-platform (Wind, Linux and macOS)
 - vfat (FAT32)
 ### Database
 
-- SQL
+- Database storage engines
 
 ### Network
 

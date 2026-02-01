@@ -2,7 +2,7 @@
 - Kernel is at **the heart of the OS**
 - All Kernels can be found in [Linux Kernel Archives](https://www.kernel.org/)
 - Different distributions may be based on widely different Kernel versions 
-- Stable/enterprise distros (RHEL, Ubuntu LTS) use older, battle-tested kernels
+- Stable/enterprise distros ([[RHEL]], [[Ubuntu]] LTS) use older, battle-tested kernels
 - Enterprise distros backport security fixes and features to their older kernels, so "old" doesn't mean "insecure"
 - Rolling/bleeding-edge distros (Arch, Fedora) use newer kernels
 
@@ -10,10 +10,10 @@
 | ------ | ------ | ---------------------------- |
 | RHEL 8 | 4.18   | Stability over features      |
 | RHEL 9 | 5.14   | Newer but still conservative |
-| Fedora | Latest | Testing ground for RHEL      |
-- Kernel alone is not usable, you need to pair it with tools, package mgmnt etc to make it usable!
+| Fedora | Latest | Testing ground for [[RHEL]]  |
+- Kernel alone is not usable, you need to pair it with tools, package mgmt. etc to make it usable!
 
-### BOOT
+### [[BOOT]]
 
 - During [[BOOT]] process, the [[BOOT Loader]], loads both Kernel and [[initramfs]] into memory, so it can be used by the Kernel
 1) When Kernel is loaded into [[RAM]], it initializes and configures the RAM and hardware attached to the system. It also loads some necessary user space applications

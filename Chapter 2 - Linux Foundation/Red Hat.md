@@ -7,8 +7,9 @@
 - uses `dnf`, the RPM-based **package manager** to install, update, and remove packages in the system.
 - supports multiple hardware platforms
 
-### `Red Hat Enterprise Linux (RHEL)` 
+### `Red Hat Enterprise Linux 
 
+- Commonly used abbreviation is [[RHEL]]
 - Paid, corporate version popular in businesses
 - Used to be Open-source
 - Subscription model: pays for support, updates, and certifications — not the software itself
