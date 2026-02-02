@@ -4,7 +4,7 @@
 # Red Hat Family
 
 - Includes distributions such as `RHEL`, `CentOS`, `CentOS Stream`, `Fedora` and `Oracle Linux`
-- uses `dnf`, the RPM-based **package manager** to install, update, and remove packages in the system.
+- uses [[dnf]], the RPM-based **package manager** to install, update, and remove packages in the system.
 - supports multiple hardware platforms
 
 ### `Red Hat Enterprise Linux 
@@ -15,7 +15,7 @@
 - Subscription model: pays for support, updates, and certifications — not the software itself
 - Free tier: up to 16 systems via Red Hat Developer Subscription
 
-### `Fedora` - Distribution closest with RHEL
+### [[Fedora]] - Distribution closest with RHEL
 
 - Upstream innovation platform
 - Used for testing new technologies before considering them for RHEL
@@ -33,14 +33,14 @@
 	- `CentOS 7` — EOL June 30, 2024 (the last version standing)
 - Spiritual successors: `Rocky Linux`, `AlmaLinux` (free RHEL rebuilds) 
 
-###  `CentOS Stream` -  New Version of CentOS
+###  [[CentOS Stream]] -  New Version of CentOS
 
 - direct upstream of RHEL, rolling preview of next RHEL release
 - [Open-Source](gitlab.com/centos-stream)
 - Serves as testing environment for RHEL
 - Shares RHEL's codebase and text gates
 
-### `Oracle Linux`
+### [[Oracle]] Linux
 
 - Based on RHEL source code (free to download/use)
 - Oracle's own enterprise offering, competes with RHEL

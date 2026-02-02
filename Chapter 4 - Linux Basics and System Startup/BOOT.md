@@ -13,7 +13,7 @@
 7) [[Kernel]] + Initial [[RAM]] disk - [[initramfs]]
 8) /sbin/[[init]] (parent process)
 9) command [[shell]] using getty
-10) [[GUI]] ([[X Window System]]/ [[wayland]])
+10) [[GUI]] ([[X Window System]]/ [[Wayland]])
 
 
 ### BOOT alternatives 
