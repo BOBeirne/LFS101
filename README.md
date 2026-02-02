@@ -12,9 +12,11 @@ practice.
 ## Structure
 
 - **Chapter 1** - Course Information
-- **Chapter 2** - Linux Foundation (Distro families: Debian, Red Hat, SUSE)
+- **Chapter 2** - Linux Foundation and main distribution families: Debian, Red Hat, SUSE
 - **Chapter 3** - Linux Philosophy and Concepts (History, kernel, licensing, terminology)
-- **Chapter 4** - Linux Basics and System Startup
+- **Chapter 4** - Basics and System Startup Process
+- **Chapter 5** - Graphical User Interface
+- **Chapter 6** - System configuration using GUI
 
 *More chapters will be added as I progress through the course.*
 
