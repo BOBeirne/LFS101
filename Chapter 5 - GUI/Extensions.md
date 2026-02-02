@@ -1,0 +1,1 @@
+- On most new Linux distros can find [[GNOME]] extensions in [[gnome-extensions-app]]
