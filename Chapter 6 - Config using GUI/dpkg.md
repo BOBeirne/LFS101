@@ -1,0 +1,4 @@
+- low-level [[Package manager]] for [[Debian]]
+- It can install, remove and build packages
+- it does NOT download and install packages or satisfies dependencies
+- tl;dr Installs/removes individual .deb files (no internet, no dependencies)

@@ -1,0 +1,6 @@
+- To control GNOME [[Shell]] extensions using [website](https://extensions.gnome.org/) you must install GNOME Shell integration that consists of two parts: 
+	1) `browser extension`
+		- **Chrome**-based browsers install the extension using then [Chrome Web Store](https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep).
+		- **Firefox** - manually install extension from [Mozilla Add-ons site](https://addons.mozilla.org/firefox/addon/gnome-shell-integration/). Please note that Firefox is supported since connector version 8.
+		- **Opera** was supported since connector version 7 up to version 10.1. However extension [was deactivated at Opera addons website without any technical explanation](https://gnome.pages.gitlab.gnome.org/gnome-browser-integration/images/opera-conversation.png).
+	2) `native host messaging application` - [wiki page](https://gnome.pages.gitlab.gnome.org/gnome-browser-integration/pages/installation-guide.html) with installation instructions.

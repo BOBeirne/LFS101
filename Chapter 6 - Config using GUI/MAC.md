@@ -1,0 +1,3 @@
+- MAC - Ethernet Media Access Control 
+- Unique HEX ID number of your Network card
+- It can be changed for some devices via [[Network Manager]]

@@ -1,0 +1,2 @@
+- DHCP - Dynamic Host Configuration Protocol
+- device /server responsible for assigning IP address for each network device when it shows up on the network

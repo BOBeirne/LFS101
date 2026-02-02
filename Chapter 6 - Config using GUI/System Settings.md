@@ -1,0 +1,2 @@
+- To access the panel go to top-Right corner -> select tools / gear icon
+- Sys Settings panel allows you to change basic config of  the screen resolution, managing network connections, or changing the date and time of the system

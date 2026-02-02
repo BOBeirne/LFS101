@@ -1,0 +1,3 @@
+- Low-level [[Package manager]] for [[Red Hat]]
+- Only installs/uninstalls .rpm files 
+- no internet involved

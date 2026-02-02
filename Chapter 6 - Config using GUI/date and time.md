@@ -1,0 +1,4 @@
+- Default time zone used is Coordinated Universal Time - UTC 
+- Similar but more accurate then GMT
+- On some distros you can change time values by clicking at the displayed time in top panel
+- You can get more detailed settings in `Date & Time` window in [[System Settings]]

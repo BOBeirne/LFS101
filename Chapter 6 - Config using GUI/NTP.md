@@ -1,0 +1,4 @@
+- NTP - Network Time Protocol
+- Most popular and reliable protocol used for setting the local time by consulting established internet servers
+- All [[linux]] distros come with NTP setup
+- It usually does not require any setup other than turning it on or off
