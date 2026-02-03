@@ -102,3 +102,18 @@ To change a background...
 
 **FYI Do not ever delete `/home/` directory**
 
+
+## Disabling & Enabling GUI -> [[Virtual Terminal]]
+
+```bash
+# Turn off GUI
+sudo systemctl stop gdm 
+# OR 
+sudo telinit 3
+
+###
+# Turn ON GUI
+sudo systemctl start gdm 
+# OR 
+sudo telinit 3
+```

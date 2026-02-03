@@ -14,10 +14,6 @@
 - Utility for tweaks and options for GNOME
 - It also allows to install [[Extensions]]
 
-
-
-
-
 ## enabling GNOME "new" option Template
 
 ```bash

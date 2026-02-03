@@ -11,7 +11,7 @@ If used by system instead of [[systemd]]
 
 ## Text-mode Login
 
-- at the end of BOOT process, the init starts a number of login prompts in text mode [[Terminal]]
+- at the end of BOOT process, the init starts a number of login prompts in text mode [[Virtual Terminal]]
 - they allow you to type in username and password
 - You may not see them if you use GUI until they are launched in GUI
 - After providing credentials it runs Command [[Shell]]
