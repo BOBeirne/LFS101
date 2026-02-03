@@ -1,0 +1,3 @@
+- Graphical email clients, such as Thunderbird, Evolution, and Claws Mail.
+- Text mode email clients, such as Mutt and mail.
+- All web browser-based clients, such as Gmail, Yahoo Mail, and Office 365.

@@ -1,0 +1,7 @@
+- Firefox
+- Google Chrome
+- Chromium
+- Epiphany (renamed web)
+- Konqueror
+- linx, lynx, w3m
+- Opera

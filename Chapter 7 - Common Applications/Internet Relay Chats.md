@@ -1,0 +1,3 @@
+- also called IRC
+- text based chat 
+- Accesible by HexChat or Pidgin
