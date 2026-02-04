@@ -1,0 +1,3 @@
+- Terminal Emulator is an application that emulates a standalone [[Virtual Terminal]] in a [[GUI]] within a desktop window
+- Common terminal emulators are: gnome-terminal (default), xterm, konsole (KDE) or terminator
+- On most distributions, you can launch a terminal by right-clicking on the desktop or use `ALT-F2` key combination and type in `gnome-terminal`

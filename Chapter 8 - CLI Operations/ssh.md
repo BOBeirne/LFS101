@@ -1,0 +1,3 @@
+- SSH - Secure shell
+- [[CLI]] command that allows use of SSH protocol to establish a remote connection to another computer on the network / internet
+- command follows: `ssh username@remote-server.com` after which you provide password or cryptographic key to login

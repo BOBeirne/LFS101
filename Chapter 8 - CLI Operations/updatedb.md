@@ -1,0 +1,3 @@
+- database utility, which updates the index of files and directories in the system
+- usually runs once a day
+- you can change the settings by editing file `updatedb.conf` in `/etc`
