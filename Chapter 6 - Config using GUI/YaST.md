@@ -1,6 +1,6 @@
 - The Yet another Setup Tool (YaST) - actualluy `yast2`
-- [[GUI]] [[Package manager]] for [[openSUSE]]
-- it uses [[RPM]]-based application
+- [[GUI]] [[Package Manager]] for [[openSUSE]]
+- it uses [[rpm]]-based application
 - YaST2 replaced YaST1 around 1999-2000 when SUSE Linux 6.3/7.0 was released.
 	- YaST1 (1994) - text-based, ncurses interface
 	- YaST2 (1999+) - rewritten with GUI support (Qt/GTK), modular architecture

@@ -1,5 +1,4 @@
-[[Package manager]] for [[Red Hat]] family
-
+- high-level [[Package Manager]] for [[Red Hat]] family
 
 
 ```bash

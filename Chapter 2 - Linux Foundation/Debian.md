@@ -1,7 +1,9 @@
 # The Debian Family
 
 - Uses `Preseed` config file for unattended installation
-
+- [[Package Manager]]s used are:
+	1) [[dpkg]] - low level
+	2) [[apt]] - high level
 ### Debian
 
 - **Pure Open-Source** community project
