@@ -3,7 +3,6 @@
 - Man pages are most often used source of [[Documentation]] in Linux systems
 - Usually shorter than [[info]]
 
-
 ## man vs info
 
 | Feature      | man                 | info                               |
