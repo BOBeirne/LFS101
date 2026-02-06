@@ -1,0 +1,2 @@
+- [[GUI]] utility used to view system resource usage and running [[processes]] in an interactable window
+- can be opened via [[CLI commands]] `gnome-system-monitor` or via GUI itself by searching for `system monitor`
