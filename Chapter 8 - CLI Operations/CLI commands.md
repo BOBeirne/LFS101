@@ -14,7 +14,7 @@
 
 
 # Basic CLI system operations
-## Navigating the [[File system]]
+## Navigating the [[File System]]
 
 | COMMAND | ACTION                                                                                        |
 | ------- | --------------------------------------------------------------------------------------------- |
